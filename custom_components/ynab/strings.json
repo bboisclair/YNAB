@@ -8,10 +8,10 @@
     },
     "step": {
       "user": {
-          "title": "API key",
+          "title": "API Key",
           "description": "Instructions for getting your API are available at https://api.ynab.com/",
           "data": {
-              "api_key": "API key"
+              "api_key": "API Key"
 
           }
       },
