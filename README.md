@@ -1,4 +1,4 @@
-# ynab
+# YNAB
 
 YNAB component for Home Assistant
 This component will retreieve the following data from your YNAB budget
